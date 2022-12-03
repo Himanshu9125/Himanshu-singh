@@ -2,7 +2,7 @@
 # Himanshu-singh
 <h1 align="center">Hi 👋, I'm HIMANSHU SINGH</h1>
 <h3 align="center">A passionate competative prigraming as well as frontend developer from India</h3>
-<img align="right" alt="coding" width="300"
+<img align="right" alt="coding" width="250"
     src="https://remakelearning.org/wp-content/uploads/2020/01/122.gif">
 
 <p align="left"> <img
