@@ -27,8 +27,8 @@
     <a href="https://www.hackerrank.com/2021b0101068" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"
             alt="2021b0101068" height="30" width="40" /></a>
-            <a href="https://www.hackerrank.com/2021b0101068" target="blank"><img align="center"
-            src="https://www.codechef.com/users/himanshu831"
+            <a href="https://www.codechef.com/users/himanshu831" target="blank"><img align="center"
+            src="https://static-00.iconduck.com/assets.00/codechef-icon-380x512-r1v87w22.png"
             alt="Himanshu831" height="30" width="40" /></a>
 </p>
 
@@ -53,7 +53,7 @@
         alt="himanshu9125" /></p>
 
 <p>&nbsp;<img align="center"
-        src="https://github-readme-stats.vercel.app/api?username=himanshu9125&show_icons=true&locale=en/https://static-00.iconduck.com/assets.00/codechef-icon-380x512-r1v87w22.png"
+        src="https://github-readme-stats.vercel.app/api?username=himanshu9125&show_icons=true&locale=en"
         alt="himanshu9125" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=himanshu9125&" alt="himanshu9125" />
