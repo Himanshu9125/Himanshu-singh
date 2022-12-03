@@ -53,7 +53,7 @@
         alt="himanshu9125" /></p>
 
 <p>&nbsp;<img align="center"
-        src="https://github-readme-stats.vercel.app/api?username=himanshu9125&show_icons=true&locale=en"
+        src="https://github-readme-stats.vercel.app/api?username=himanshu9125&show_icons=true&locale=en/https://static-00.iconduck.com/assets.00/codechef-icon-380x512-r1v87w22.png"
         alt="himanshu9125" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=himanshu9125&" alt="himanshu9125" />
