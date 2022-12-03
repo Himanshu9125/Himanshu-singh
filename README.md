@@ -7,10 +7,10 @@
 
 <p align="left"> <img
         src="https://komarev.com/ghpvc/?username=himanshu9125&label=Profile%20views&color=0e75b6&style=flat"
-        alt="himanshu9125" /> </p>
+        alt="himanshu9125" /width="10%"> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img
-            src="https://github-profile-trophy.vercel.app/?username=himanshu9125" alt="himanshu9125" /></a> </p>
+            src="https://github-profile-trophy.vercel.app/?username=himanshu9125" alt="himanshu9125" / width="60%"></a> </p>
 
 - 💬 Ask me about **Programing,MEARN**
 
